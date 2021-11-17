@@ -1,3 +1,5 @@
+javac Dec2Hex.java
+
 #Unit test 1 will be testing if the arguments contain numbers above 15.
 echo "Unit Test 1: Testing for numbers above 15"
 echo "Dec2Hex Program Starting"
