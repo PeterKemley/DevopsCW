@@ -9,6 +9,7 @@ echo "$test1"
         else
         echo"Test1 Failed"
 fi
+rm test1.txt
 
 #Unit test 2 will be testing if the arguments contain numbers below 0.
 echo "Unit Test 2: Testing for numbers below 0"
@@ -21,4 +22,4 @@ echo "$test2"
         else
         echo"Test2 Failed"
 fi
-
+rm test2.txt
